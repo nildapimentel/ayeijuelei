@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahtaequeev.spelller.com/sitemap.xml
